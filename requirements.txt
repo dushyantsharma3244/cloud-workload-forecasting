@@ -1,0 +1,9 @@
+pandas
+numpy
+pytest
+# only needed for the notebooks (EDA and model comparison)
+matplotlib
+seaborn
+scikit-learn
+optuna
+xgboost
