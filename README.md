@@ -1,4 +1,4 @@
-# Cloud Workload Forecasting (Azure VM trace)
+# Cloud Workload Forecasting 
 
 Forecasts the final two hours (24 five-minute timestamps) of two fleet-level series built from a
 curated subset of the [Azure Public Dataset V2](https://github.com/Azure/AzurePublicDataset):
